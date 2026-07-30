@@ -1,0 +1,7 @@
+(
+echo tensorflow==2.15.0
+echo numpy
+echo pillow
+echo gTTS
+echo flask
+) > requirements.txt
